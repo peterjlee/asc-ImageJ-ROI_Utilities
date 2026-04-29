@@ -1,17 +1,6 @@
 # asc-ImageJ-ROI_Utilities
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>asc-ImageJ-ROI_Utilities</title>
-</head>
-<body>
 
-<h1>asc-ImageJ-ROI_Utilities</h1>
-
-<p>A collection of ROI utilities for ImageJ/Fiji</p>
-
-<h2>ROI utilities for ImageJ/Fiji</h2>
+<h2>A collection of ROI utilities for ImageJ/Fiji</h2>
 
 <p>
 These are
