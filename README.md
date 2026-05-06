@@ -27,7 +27,7 @@ Creates a transparent overlay from the selected ROI.
 
 <h3>Export_all_ROIs_as_ImageFiles</h3>
 <p>
-Optionally draws the Feret axes on the selected image.
+Exports all ROIs as individual image files. An expanded region our the ROIs can also be included for context and the region size can be set to the same values for all ROIs-clips. The menu below shows the current options.
 </p>
 
 <img
