@@ -30,9 +30,7 @@ Creates a transparent overlay from the selected ROI.
 Exports all ROIs as individual image files. An expanded region our the ROIs can also be included for context and the region size can be set to the same values for all ROIs-clips. The menu below shows the current options.
 </p>
 
-<img
-  src="/images/Export_all_ROIs+as_ImageFiles_v260427_MenuEd_573x743.png"
-  alt="Example of Export_all_ROIs as ImageFiles">
+<img src="/images/Export_all_ROIs+as_ImageFiles_v260427_MenuEd_573x743.png" alt="Example of Export_all_ROIs as ImageFiles">
 
 <h3 id = "ExportROIsInSelectedArea">Export_ROIs_in_Selected_Area</h3>
 <p>
@@ -43,8 +41,7 @@ Exports a collection of ROIs based on the selected area.
 <p>
 Sets the ROI color and transparency. Extends the formatting options available for ROIs to include a wider range of colors as well as transparency levels.
 </p>
-	<img src="/images/ROI-Set_Color-Transp_Before-After_768x282.jpg"
-  alt="Main menu for Export_all_ROIs as ImageFiles macro" width=768>
+	<img src="/images/ROI-Set_Color-Transp_Before-After_768x282.jpg" alt="Example showing use of ROI-set_color_and_transparency macro to add semi-transparent color to an ROI" width=768>
 <h3 id = "SortROIsByProximity">Sort_ROI_set_by_Proximity_to_Current_ROI_set</h3>
 <p>
 Sorts an archived ROI set by proximity to the current ROI set.
@@ -70,6 +67,8 @@ expected from <em>Analyze Particles</em>.
   <li>Adds row and column numbers to ROI name</li>
   <li>Appends original ROI name to final ROI name for reference</li>
   <li>Option to add ROI names to re-measured Results Table</li>
+  <img src="images/Sort_ROIs_by_Grid_v260429_Options_412x336_PAL64.png"
+  alt="Grid options for Sort_ROIs_by_Grid macro" width=412>
 </ul>
 
 <hr>
