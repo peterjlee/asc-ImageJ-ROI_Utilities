@@ -41,9 +41,10 @@ Exports a collection of ROIs based on the selected area.
 
 <h3 id = "SetROIColorandTransparency">ROI_set_Color_and_Transparency</h3>
 <p>
-Sets the ROI color and transparency.
+Sets the ROI color and transparency. Extends the formatting options available for ROIs to include a wider range of colors as well as transparency levels.
 </p>
-
+	<img src="/images/ROI-Set_Color-Transp_Before-After_768x282.jpg"
+  alt="Main menu for Export_all_ROIs as ImageFiles macro" width=768>
 <h3 id = "SortROIsByProximity">Sort_ROI_set_by_Proximity_to_Current_ROI_set</h3>
 <p>
 Sorts an archived ROI set by proximity to the current ROI set.
