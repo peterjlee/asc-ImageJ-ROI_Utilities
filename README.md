@@ -62,9 +62,9 @@ The original order of objects (and ROIs) is by a top-to-bottom, left-to-right sc
   <li>Adds row and column numbers to ROI name</li>
   <li>Appends original ROI name to final ROI name for reference</li>
   <li>Option to add ROI names to re-measured Results Table</li>
+ </ul> 
   <p><img src="images/Sort_ROIs_by_Grid_v260429_Options_412x336_PAL64.png"
   alt="Grid options for Sort_ROIs_by_Grid macro" width=360></p>
-</ul>
 
 <hr>
 
