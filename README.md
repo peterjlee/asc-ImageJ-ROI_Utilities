@@ -68,20 +68,20 @@ The original order of objects (and ROIs) is by a top-to-bottom, left-to-right sc
 
 <hr>
 
-<p><strong><sub><sup>Legal Notice:</strong></p>
+<p><strong><sub><sup>Legal Notice:</sub</sup></strong></p>
 
-<p>
+<p><sub><sup>
 These macros have been developed to demonstrate the power of the ImageJ macro language
 and we assume no responsibility whatsoever for their use by other parties, and make no
 guarantees, expressed or implied, about their quality, reliability, or any other
 characteristic. On the other hand, we hope you do have fun with them without causing harm.
-</p>
+</sub</sup></p>
 
-<p>
+<p>sub><sup>
 The macros are continually being tweaked and new features and options are frequently
 added, meaning that not all of these are fully tested. Please contact me if you have any
-problems, questions, or requests for new modifications.</sub</sup>
-</p>
+problems, questions, or requests for new modifications.
+</sub</sup></p>
 
 </body>
 </html>
