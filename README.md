@@ -1,18 +1,14 @@
-# asc-ImageJ-ROI_Utilities
+# asc-ImageJ ROI Utilities
 
 <h2>A collection of ROI utilities for ImageJ/Fiji</h2>
 
 <p>
-These are
-<a href="https://imagej.net/">ImageJ</a> /
-<a href="https://fiji.sc/">Fiji</a>
-macros that do some useful things with ROIs:
+These are <a href="https://imagej.net/">ImageJ</a>/<a href="https://fiji.sc/">Fiji</a> macros that do some useful things with ROIs:
 </p>
 
 <h3 id = "CreateROIGrid">Create a Grid of ROIs from a Single Selection</h3>
 <p>
-Creates a square grid of ROIs that are identical to the current selection.<br>
-The original purpose was to create ROIs for scanned 35&nbsp;mm film strips.
+Creates a square grid of ROIs that are identical to the current selection. The original purpose was to create ROIs for scanned 35&nbsp;mm film strips.
 </p>
 
 <h3 id = "CreateUniformOverlaysFromROIs">Create Overlays of the Same Style for each ROI</h3>
@@ -71,15 +67,12 @@ The original order of objects (and ROIs) is by a top-to-bottom, left-to-right sc
 <p><strong><sub>Legal Notice:</sub></strong></p>
 
 <p><sub>
-These macros have been developed to demonstrate the power of the ImageJ macro language
-and we assume no responsibility whatsoever for their use by other parties, and make no
-guarantees, expressed or implied, about their quality, reliability, or any other
-characteristic. On the other hand, we hope you do have fun with them without causing harm.
+These macros have been developed to demonstrate the power of the ImageJ macro language and we assume no responsibility whatsoever for their use by other parties, and make no
+guarantees, expressed or implied, about their quality, reliability, or any other characteristic. On the other hand, we hope you do have fun with them without causing harm.
 </sub></p>
 
 <p><sub>
-The macros are continually being tweaked and new features and options are frequently
-added, meaning that not all of these are fully tested. Please contact me if you have any
+The macros are continually being tweaked and new features and options are frequently added, meaning that not all of these are fully tested. Please contact me if you have any
 problems, questions, or requests for new modifications.
 </sub></p>
 
