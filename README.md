@@ -68,7 +68,7 @@ The original order of objects (and ROIs) is by a top-to-bottom, left-to-right sc
 
 <hr>
 
-<p><strong><sub<sup>Legal Notice:</strong></p>
+<p><strong><sub><sup>Legal Notice:</strong></p>
 
 <p>
 These macros have been developed to demonstrate the power of the ImageJ macro language
