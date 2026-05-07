@@ -39,27 +39,22 @@ Exports a collection of ROIs based on the selected area.
 
 <h3 id = "SetROIColorandTransparency">ROI_set_Color_and_Transparency</h3>
 <p>
-Sets the ROI color and transparency. Extends the formatting options available for ROIs to include a wider range of colors as well as transparency levels.
+Opens up a dialog similar to the built-in ROI properties dialog but adding drop-downs for fill and stroke color selection and sliders for transparency.
 </p>
 	<img src="/images/ROI-Set_Color-Transp_Before-After_768x282.jpg" alt="Example showing use of ROI-set_color_and_transparency macro to add semi-transparent color to an ROI" width=768>
+
 <h3 id = "SortROIsByProximity">Sort_ROI_set_by_Proximity_to_Current_ROI_set</h3>
 <p>
 Sorts an archived ROI set by proximity to the current ROI set.
 </p>
 
-<h3 id = "SortROIsToGrid">Sort_ROIs_by_Grid</h3>
+<h3 id = "SortROIsToGrid">Sort ROIs to a Rectangular Grid</h3>
 <p>
-Sorts ROIs of a rectangular grid into row/column order.
+The original order of objects (and ROIs) is by a top-to-bottom, left-to-right scan and if you have x,y grid of analysis points this may not exactly match the intuitive column/row order you would expect. You can use this macro to sort the ROIs of a rectangular grid into column-by-column, row-by-row order. This is particularly useful when combining with the export ROIs as image files macro above so that montaging the ROIs back into the same grid pattern respects the original arrangement. This macro was created to handle grids of microhardness indents.
 </p>
 
 <p>
-Created for automatically created grids of microhardness indents so subsequent ROI
-montages are in the expected row/column order.
-</p>
-
-<p>
-Requires that rows do not overlap and ROIs are already in xy order as would be
-expected from <em>Analyze Particles</em>.
+<em>Requirement</em>: The rows must not overlap with each other and ROIs are already in the top-left:bottom-right order that would be expected from <em>Analyze Particles</em>.
 </p>
 
 <ul>
