@@ -77,7 +77,7 @@ guarantees, expressed or implied, about their quality, reliability, or any other
 characteristic. On the other hand, we hope you do have fun with them without causing harm.
 </sub</sup></p>
 
-<p>sub><sup>
+<p><sub><sup>
 The macros are continually being tweaked and new features and options are frequently
 added, meaning that not all of these are fully tested. Please contact me if you have any
 problems, questions, or requests for new modifications.
