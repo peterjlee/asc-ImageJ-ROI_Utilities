@@ -62,26 +62,26 @@ The original order of objects (and ROIs) is by a top-to-bottom, left-to-right sc
   <li>Adds row and column numbers to ROI name</li>
   <li>Appends original ROI name to final ROI name for reference</li>
   <li>Option to add ROI names to re-measured Results Table</li>
- </ul> 
+</ul> 
   <p><img src="images/Sort_ROIs_by_Grid_v260429_Options_412x336_PAL64.png"
   alt="Grid options for Sort_ROIs_by_Grid macro" width=360></p>
 
 <hr>
 
-<p><strong><sub><sup>Legal Notice:</sub</sup></strong></p>
+<p><strong><sub>Legal Notice:</sub></strong></p>
 
-<p><sub><sup>
+<p><sub>
 These macros have been developed to demonstrate the power of the ImageJ macro language
 and we assume no responsibility whatsoever for their use by other parties, and make no
 guarantees, expressed or implied, about their quality, reliability, or any other
 characteristic. On the other hand, we hope you do have fun with them without causing harm.
-</sub</sup></p>
+</sub></p>
 
-<p><sub><sup>
+<p><sub>
 The macros are continually being tweaked and new features and options are frequently
 added, meaning that not all of these are fully tested. Please contact me if you have any
 problems, questions, or requests for new modifications.
-</sub</sup></p>
+</sub></p>
 
 </body>
 </html>
