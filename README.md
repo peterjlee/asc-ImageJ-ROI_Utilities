@@ -30,7 +30,7 @@ Creates a transparent overlay from the selected ROI.
 Exports all ROIs as individual image files. An expanded region around the ROIs can also be included for context and the region size can be set to the same values for all ROI-clips. The menu below shows the current options.
 </p>
 
-<img src="/images/Export_all_ROIs+as_ImageFiles_v260427_MenuEd_573x743.png" alt="Example of Export all ROIs as Individual Image Files macro">
+<img src="/images/Export_all_ROIs+as_ImageFiles_v260427_MenuEd_573x743.png" width=480 alt="Example of Export all ROIs as Individual Image Files macro">
 
 <h3 id = "ExportROIsInSelectedArea">Export all ROIs in a Selected Area</h3>
 <p>
@@ -62,8 +62,8 @@ The original order of objects (and ROIs) is by a top-to-bottom, left-to-right sc
   <li>Adds row and column numbers to ROI name</li>
   <li>Appends original ROI name to final ROI name for reference</li>
   <li>Option to add ROI names to re-measured Results Table</li>
-  <img src="images/Sort_ROIs_by_Grid_v260429_Options_412x336_PAL64.png"
-  alt="Grid options for Sort_ROIs_by_Grid macro" width=412>
+  <p><img src="images/Sort_ROIs_by_Grid_v260429_Options_412x336_PAL64.png"
+  alt="Grid options for Sort_ROIs_by_Grid macro" width=360></p>
 </ul>
 
 <hr>
